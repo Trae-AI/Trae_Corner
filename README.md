@@ -36,11 +36,11 @@ Trae's Corner 是一个专注于分享 Trae 相关内容的资源中心，主要
 - 社交媒体：
   - X: [@Trae_AI](https://x.com/Trae_ai)
   - Discord: [Trae](https://discord.com/invite/NV3MF24tAe)
-  - 微信公众号：
-  <img src="img/AAC.png" width="200" alt="Trae 微信公众号">
+  - 微信公众号：搜索【Trae.ai】
 
   - 开发者社群：
-  <img src="img/Usergroup.png" width="200" alt="Trae 微信公众号">
+ <img width="654" height="536" alt="image" src="https://github.com/user-attachments/assets/c13f061f-263d-47a1-9965-7f70573a487a" />
+
 
 ## 🤝 反馈与支持
 如果你对本仓库有任何建议或问题，欢迎通过以下方式联系我们：
